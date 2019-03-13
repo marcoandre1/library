@@ -1,4 +1,4 @@
-# Books library Object-oriented JavaScript (OOJS) project
+# Book library Object-oriented JavaScript (OOJS) project
 
 Small OOJS project idea that came after a web development exam.
 
